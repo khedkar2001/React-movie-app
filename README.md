@@ -81,8 +81,8 @@ Deployment: Successfully hosted on Netlify/Vercel/GitHub Pages.
 
 👨‍💻 Author
 
-Saurabh Khedkar Full Stack Web Developer | Pune, MH, India 📧 saurabhrkhedkar1707@gmail.com
-🔗 LinkedIn
-🐙 GitHub
-
-
+Saurabh Khedkar 
+Full Stack Web Developer | Pune, MH, India 
+📧 saurabhrkhedkar1707@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/saurabh-khedkar)  
+🐙 [GitHub](https://github.com/khedkar2001)  
