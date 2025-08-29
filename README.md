@@ -78,9 +78,11 @@ UI Consistency: Matches design reference with animations.
 
 Deployment: Successfully hosted on Netlify/Vercel/GitHub Pages.
 
-📌 Author
 
-👤 Saurabh Khedkar
+👨‍💻 Author
 
+Saurabh Khedkar Full Stack Web Developer | Pune, MH, India 📧 saurabhrkhedkar1707@gmail.com
+🔗 LinkedIn
+🐙 GitHub
 
 
